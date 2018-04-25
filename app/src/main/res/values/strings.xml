@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dist-Lab Exercise1</string>
+    <string name="SETCOLOUR">SET COLOR</string>
+    <string name="Red_Key">Red</string>
+    <string name="Green_key">Green</string>
+    <string name="Blue_key">Blue</string>
+    <string name="Motion_key">Use Motion Sensors</string>
+    <string name="text_key">0</string>
+    <string name="text_key2">0</string>
+    <string name="text_key3">0</string>
+    <string name="previewKey">Preview</string>
+
+
+</resources>
